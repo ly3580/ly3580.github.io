@@ -2,7 +2,7 @@
 title: "CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization"
 collection: publications
 year: 2025
-venue: "Arxiv"
+venue: "arXiv"
 excerpt: "Scene Graphs, Causal Reasoning, Scene Understanding, Uncertainty-guided Modeling, Autonomous Driving"
 paperurl: "https://arxiv.org/abs/xxxx.xxxxx"
 ---
