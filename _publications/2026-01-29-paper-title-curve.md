@@ -6,7 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Out-of-Distribution Generalization, Robust Representation Learning, Uncertainty-Aware Learning, Scene Graphs, Autonomous Driving.'
 date: 2026-01-29
 venue: 'arXiv'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
