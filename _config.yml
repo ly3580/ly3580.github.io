@@ -23,7 +23,7 @@ repository               : "ly3580/ly3580.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ly.jpg"
+  avatar           : "ly.jpg"
   name             : "Yue Liang"
   pronouns         : "she/her"  
   bio              : "PhD Candidate"
