@@ -2,12 +2,12 @@
 title: "Ground-based cloud recognition method based on an improved DeepLabV3+ model"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-10-27-paper-title-ground
+permalink: /publication/2023-10-27-ground-based-cloud
 excerpt: 'Image Processing, Ground-based Cloud Recognition'
 date: 2023-10-27
 venue: 'Cognitive Computation and Systems'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ccs2.12091'
-citation: 'Liang, Y., Ge, Q.: Ground‐based cloud recognition method based on an improvedDeepLabV3þ model. Cogn. Comput. Syst. 5(4),280–287 (2023).'
+citation: "Liang, Y., Ge, Q.: Ground-based cloud recognition method based on an improved DeepLabV3+ model. Cogn. Comput. Syst. 5(4), 280-287 (2023)."
 ---
 
 An improved method for recognising clouds on the ground map is proposed incorporating the DeepLabV3+ model to solve three issues. Firstly, an image preprocessing module is developed to enrich image quality, particularly at night, as clouds can appear to be too blurry to distinguish. Secondly, the CBAM attention mechanism is applied to safeguard texture and boundary information, ensuring the depiction of cirrus edges is not lost. Finally, the feature extraction network can be optimised to enhance the model and decrease its computational complexity. In comparison to the original model, the accuracy of the proposed method increased by 10.89%, resulting in an overall accuracy of 94.18%. Furthermore, the MIoU has improved from 66.02% to 79.31%. The number of parameters was reduced by 51.45% to 13.4 M. Of the various cloud types, the improvement in cirrus is particularly striking, with the MIoU increasing from 1.78% to 56.01%.
