@@ -1,7 +1,7 @@
 ---
 title: "CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2026-01-29-paper-title-curve
 excerpt: 'Out-of-Distribution Generalization, Robust Representation Learning, Uncertainty-Aware Learning, Scene Graphs, Autonomous Driving.'
 date: 2026-01-29
