@@ -13,6 +13,9 @@ main:
 
   - title: "Patents"
     url: /patents/
+    
+  - title: "Honors & Awards"
+    url: /honors/
 
   - title: "Talks"
     url: /talks/    
