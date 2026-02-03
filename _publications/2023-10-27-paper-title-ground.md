@@ -2,7 +2,7 @@
 title: "Ground-based cloud recognition method based on an improved DeepLabV3+ model"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-10-27-ground-based-cloud/
+permalink: /publication/2023-10-27-ground-based-cloud
 excerpt: 'Image Processing, Ground-based Cloud Recognition'
 date: 2023-10-27
 venue: 'Cognitive Computation and Systems'
